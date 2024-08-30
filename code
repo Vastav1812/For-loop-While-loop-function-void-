@@ -1,0 +1,46 @@
+
+#include <bits/stdc++.h>
+using namespace std;
+
+
+    
+    // int i;
+    // for ( i =10; i > 0 ; i--){
+    //     cout << "Vastav"<< i << endl ;
+    
+    // int i = 1 ;
+    // while(i <= 5){
+    //     cout << "Vastav" << i << endl ;
+    //     i++;
+    // }
+    
+    // int i = 2;
+    // do{
+    //     cout << "Vastav" << i << endl ;
+    //         i++;
+        
+    // }while(i <= 1);
+    
+    // cout << i << endl;
+    
+    // Functions are set of code which performs something for you
+     // void
+     // return 
+     // parameterized
+     // non-parameterized
+     
+//      void printName(string name){
+//          cout << "Hey!" << endl << name << endl;
+//      }
+     
+//      int main(){
+//          string name ;
+//          cin >> name;
+//          printName(name);
+     
+    
+     
+//     return 0;
+// }
+
+
